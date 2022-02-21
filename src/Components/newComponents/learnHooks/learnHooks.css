@@ -1,0 +1,20 @@
+.learnHooks  {
+	height: 100%;
+    background-color: inherit;
+    display: flex;
+    place-items: center;
+    justify-content: center;
+}
+
+.learnHooks > div > .butni {
+    margin: 10px;
+}
+
+.learnHooks > div > span{
+    font-size: xx-large;
+	display: flex;
+    place-items: center;
+    justify-content: center;
+    background-color: ivory;
+}
+

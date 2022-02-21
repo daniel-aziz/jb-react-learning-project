@@ -1,0 +1,17 @@
+.MyClocl {
+    height: 100%;
+    border: 5px solid black;
+	display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.theClockMachine {
+    
+}
+
+.theTime {
+    font-size: xx-large;
+    color: coral;
+}
+

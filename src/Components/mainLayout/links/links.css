@@ -1,0 +1,36 @@
+.links {
+    font-family: Urbanist;
+	text-align: center;
+}
+
+#myNav {
+    padding-top: 20px;
+    text-align: center;
+}
+
+#myNav > a {
+    text-decoration: underline;
+    display: inline-block;
+    margin: 5px 0px 10px 0px;
+   /* font-weight: bold; */
+    color: rgb(213, 231, 80);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.links > nav {
+    text-decoration: underline;
+    display: inline-block;
+    margin: 5px 0px 10px 0px;
+   /* font-weight: bold; */
+    color: rgb(231, 80, 80);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navLink {
+    text-decoration: underline;
+    display: inline-block;
+    margin: 5px 0px 10px 0px;
+   /* font-weight: bold; */
+    color: rgb(46, 178, 17);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

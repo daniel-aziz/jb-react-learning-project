@@ -1,0 +1,21 @@
+.axiosDemoClass {
+	text-align: center;
+    margin: 10px;
+}
+
+.carBox {
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+box-shadow: 5px 5px 15px 5px #000000;
+border: 1px dashed black;
+width: 30%;
+background-color: blanchedalmond;
+}
+
+hr {
+    width: 85%;
+}
+
+.info {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}

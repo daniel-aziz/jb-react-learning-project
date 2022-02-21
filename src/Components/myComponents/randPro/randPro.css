@@ -1,0 +1,10 @@
+.randPro {
+	
+}
+
+
+.randProBox, .randProBox > * {
+    display: flex;
+    place-items: center;
+    width: 50%;
+}
